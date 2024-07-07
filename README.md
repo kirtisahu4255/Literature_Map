@@ -16,6 +16,12 @@ Literature Map  is a book recommendation website developed using React.js, APIs,
 - **HTML**: Markup language for structuring web pages.
 - **CSS**: Stylesheets for styling the website and ensuring responsiveness.
 
+  ## Screenshots
+
+![Screenshot 1](/1.png)
+![Screenshot 2](/2.png)
+![Screenshot 3](/3.png)
+
 ## Getting Started
 
 ### Prerequisites
