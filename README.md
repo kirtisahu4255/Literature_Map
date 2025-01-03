@@ -1,6 +1,6 @@
-# Literature Map 
+# Kitaab Saheli
 
-Literature Map  is a book recommendation website developed using React.js, APIs, HTML, and CSS. This project recommends over 1000 books and includes features for book tracking based on user preferences.
+Kitaab Saheli  is a book recommendation website developed using React.js, APIs, HTML, and CSS. This project recommends over 1000 books and includes features for book tracking based on user preferences.
 
 ## Features
 
