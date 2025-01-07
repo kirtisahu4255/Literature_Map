@@ -18,7 +18,7 @@ Kitaab Saheli  is a book recommendation website developed using React.js, APIs, 
 
   ## Screenshots
 
-![Screenshot 1](/1.png)
+![Screenshot 1](/heloo.png)
 ![Screenshot 2](/2.png)
 ![Screenshot 3](/3.png)
 
